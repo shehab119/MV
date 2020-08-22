@@ -1,2 +1,2 @@
 # MV
-Meteor/js and vue.js together (All set my me)
+Meteor.js and vue.js together (All set my me)
